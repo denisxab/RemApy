@@ -1,0 +1,1 @@
+name [_имя_пк_любое] token [бота_Группы_Вк] ID_developer [_id_который_может_управлять_тоесть_ваш] access_token_dropbox [ваш_Токен_от_dropbox_]
